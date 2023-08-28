@@ -1,0 +1,8 @@
+chat-downloader
+sudachipy
+sudachidict_core
+jaconv
+matplotlib
+numpy
+adjustText
+emoji
